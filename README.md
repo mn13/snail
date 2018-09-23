@@ -1,5 +1,4 @@
 # snail
-Filling the square matrix in a spiral.
 
 Input - integer
 
